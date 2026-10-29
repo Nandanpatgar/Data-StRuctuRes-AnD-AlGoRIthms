@@ -1,0 +1,17 @@
+# Compiled C/C++ files
+*.o
+*.obj
+*.exe
+*.out
+
+# Build directories
+build/
+Debug/
+Release/
+
+# Debugger files
+*.pdb
+*.ilk
+
+# IDE configuration
+.vscode/
