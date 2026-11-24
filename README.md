@@ -1,5 +1,6 @@
 # Data-StRuctuRes-AnD-AlGoRIthms
 
-##ContEnts 
-1.Basics of Loop
-2.Accumulative Thinking 
+## ContEnts 
+## BASICS -
+### 1.Basics of Loop
+### 2.Accumulative Thinking 
